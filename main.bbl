@@ -1,0 +1,114 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{5}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Johnston(1977)]%
+        {Johnston1977}
+\bibfield{author}{\bibinfo{person}{Ben Johnston}.}
+  \bibinfo{year}{1977}\natexlab{}.
+\newblock \showarticletitle{Rational Structure in Music}.
+\newblock \bibinfo{journal}{\emph{Proceedings of the American Society of
+  University Composers}}  \bibinfo{volume}{11/12} (\bibinfo{year}{1977}),
+  \bibinfo{pages}{102--118}.
+\newblock
+Issue 10.
+\urldef\tempurl%
+\url{https://archive.org/details/sim_american-society-of-university-composers-proceedings_1976-1977_11-12/page/n9/mode/2up}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Kirck(1987)]%
+        {Kirck1987}
+\bibfield{author}{\bibinfo{person}{George~T. Kirck}.}
+  \bibinfo{year}{1987}\natexlab{}.
+\newblock \showarticletitle{Computer Realization of Extended Just Intonation
+  Compositions}.
+\newblock \bibinfo{journal}{\emph{Computer Music Journal}}
+  \bibinfo{volume}{11} (\bibinfo{year}{1987}), \bibinfo{pages}{69--75}.
+\newblock
+Issue 1.
+\urldef\tempurl%
+\url{https://www.jstor.org/stable/3680179}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sabat(2008)]%
+        {Sabat2008}
+\bibfield{author}{\bibinfo{person}{Marc Sabat}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \bibinfo{title}{An algorithm for real-time harmonic microtuning}.
+\newblock
+\newblock
+
+
+\bibitem[Stange et~al\mbox{.}(2017)]%
+        {Stange2017}
+\bibfield{author}{\bibinfo{person}{Karolin Stange}, \bibinfo{person}{Christoph
+  Wick}, {and} \bibinfo{person}{Haye Hinrichsen}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Playing Music in Just Intonation - A Dynamically
+  Adapting Tuning Scheme}.
+\newblock \bibinfo{journal}{\emph{Computer Music Journal}}
+  \bibinfo{volume}{42} (\bibinfo{date}{6} \bibinfo{year}{2017}).
+\newblock
+Issue 3.
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1706.04338}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Trueman et~al\mbox{.}(2020)]%
+        {Trueman2020}
+\bibfield{author}{\bibinfo{person}{Dan Trueman}, \bibinfo{person}{Aatish
+  Bhatia}, \bibinfo{person}{Michael Mulshine}, {and} \bibinfo{person}{Theo
+  Trevisan}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Tuning Playfully: Composed and Adaptive Tunings in
+  bitKlavier}.
+\newblock \bibinfo{journal}{\emph{Computer Music Journal}}
+  \bibinfo{volume}{43} (\bibinfo{year}{2020}).
+\newblock
+Issue 2-3.
+\urldef\tempurl%
+\url{https://doi.org/10.1162/COMJ}
+\showDOI{\tempurl}
+
+
+\end{thebibliography}

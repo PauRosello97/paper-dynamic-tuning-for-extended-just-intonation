@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1666406336 "main.aux" "main.bbl" "main" 1666406340
-  "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291868336 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1666406338 780 935a7aada6139f0e4e56d97dcce5ca28 "pdflatex"
-  "reference.bib" 0 -1 0 ""
+["bibtex main"] 1666477605 "main.aux" "main.bbl" "main" 1666477609
+  "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/bibtex/bst/acmart/ACM-Reference-Format.bst" 1652044019 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
+  "main.aux" 1666477608 1116 0d4d5b8828993f55f3299d88610cb2e7 "pdflatex"
+  "references.bib" 1666477590 4185 e1539b0cc36e59a170d9ef7ffbe7c94d ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1666406336 "c:/Users/pau.rosello/Desktop/PAPERS/paper-dynamic-tuning-for-extended-just-intonation/main.tex" "main.pdf" "main" 1666406340
+["pdflatex"] 1666477606 "c:/Users/pau.rosello/Desktop/PAPERS/paper-dynamic-tuning-for-extended-just-intonation/main.tex" "main.pdf" "main" 1666477609
   "C:/Users/pau.rosello/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666016155 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pau.rosello/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1664495759 10789741 a994438bb16ad9cd8ff035a806c7aa30 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -25,12 +25,16 @@
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1247596667 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
+  "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575574700 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1663415220 152956 a7a02141521fd304fd829300cb2e9271 ""
@@ -89,11 +93,11 @@
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/pau.rosello/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/pau.rosello/Desktop/PAPERS/paper-dynamic-tuning-for-extended-just-intonation/main.tex" 1666406330 1339 4f330ce2c51b2870483cabca0ebf4ed9 ""
-  "main.aux" 1666406338 780 935a7aada6139f0e4e56d97dcce5ca28 "pdflatex"
-  "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1666406338 103 9814c2d956916adb9290eca4e25c967a "pdflatex"
-  "main.tex" 1666406330 1339 4f330ce2c51b2870483cabca0ebf4ed9 ""
+  "c:/Users/pau.rosello/Desktop/PAPERS/paper-dynamic-tuning-for-extended-just-intonation/main.tex" 1666477596 1369 4179250c9eae76bb26a4a2341b976a43 ""
+  "main.aux" 1666477608 1116 0d4d5b8828993f55f3299d88610cb2e7 "pdflatex"
+  "main.bbl" 1666477606 4235 83da7103af684226cf0661a4084ff504 "bibtex main"
+  "main.out" 1666477608 103 9814c2d956916adb9290eca4e25c967a "pdflatex"
+  "main.tex" 1666477596 1369 4179250c9eae76bb26a4a2341b976a43 ""
   (generated)
   "main.aux"
   "main.log"
